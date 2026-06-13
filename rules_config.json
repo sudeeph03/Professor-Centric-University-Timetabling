@@ -1,0 +1,224 @@
+{
+	"Room_Pools": {
+		"MCA_SEM1_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_A"],
+			"Floor": [1]
+		},
+		"MCA_SEM2_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_A"],
+			"Floor": [2]
+		},
+		"MCA_SEM3_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [1]
+		},
+		"MCA_SEM4_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [2]
+		},
+		"BCA_SEM1_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [1, 2, 3]
+		},
+		"BCA_SEM2_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [1, 2, 3]
+		},
+		"BCA_SEM3_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [1, 2, 3]
+		},
+		"BCA_SEM4_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [1, 2, 3]
+		},
+		"BCA_SEM5_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [1, 2, 3]
+		},
+		"BCA_SEM6_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_B"],
+			"Floor": [1, 2, 3]
+		},
+		"MTECH_SEM1_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_C"],
+			"Floor": [1, 2]
+		},
+		"MTECH_SEM2_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_C"],
+			"Floor": [1, 2]
+		},
+		"MTECH_SEM3_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_C"],
+			"Floor": [1, 2]
+		},
+		"MTECH_SEM4_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_C"],
+			"Floor": [1, 2]
+		},
+		"BTECH(IT)_SEM1_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(IT)_SEM2_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(IT)_SEM3_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(IT)_SEM4_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(IT)_SEM5_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(IT)_SEM6_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(IT)_SEM7_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(IT)_SEM8_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_D"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM1_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM2_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM3_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM4_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM5_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM6_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM7_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CSE)_SEM8_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_E"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM1_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM2_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM3_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM4_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM5_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM6_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM7_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"BTECH(CYBERS)_SEM8_THEORY": {
+			"Room_Type": ["Lecture"],
+			"Building_Block": ["Block_F"],
+			"Floor": [1, 2, 3, 4]
+		},
+		"LABS": {
+			"Room_Type": ["LAB"],
+			"Building_Block": ["IT_TOWER"],
+			"Floor": [1, 2, 3]
+		},
+		"STUDIOS": {
+			"Room_Type": ["ONLINE"],
+			"Building_Block": ["MAIN"],
+			"Floor": [1, 2]
+		},
+		"MBA_SEM1_THEORY": {
+			"Room_Type": ["LECTURE"],
+			"Building_Block": ["BLOCK_C"],
+			"Floor": [1]
+		},
+		"MBA_SEM2_THEORY": {
+			"Room_Type": ["LECTURE"],
+			"Building_Block": ["BLOCK_C"],
+			"Floor": [2]
+		},
+		"MBA_SEM3_THEORY": {
+			"Room_Type": ["LECTURE"],
+			"Building_Block": ["BLOCK_D"],
+			"Floor": [1]
+		},
+		"MBA_SEM4_THEORY": {
+			"Room_Type": ["LECTURE"],
+			"Building_Block": ["BLOCK_D"],
+			"Floor": [2]
+		}
+	}
+}

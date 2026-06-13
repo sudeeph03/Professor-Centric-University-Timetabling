@@ -1,0 +1,42 @@
+Prof_ID,Professor_Name,Course_ID,Daily_Max_Load,Daily_Min_Load,Preferred_Online_Days,Unavailable_Slots,Disliked_Slots,Weekly_Max_Load,Weekly_Min_Load
+P001,Dr Arpita,"CSIT751, CSE601",3,2,"Tue,Thu","Mon_9-10, Thu_15-16","Mon_10-11, Fri_12-13",16,10
+P002,Prof. Rohan,"IT601, CSIT751",4,2,Mon,"Tue_9-10, Tue_12-13","Wed_9-10, Thu_14-15",16,10
+P003,Dr. Sneha,"CSIT743, IT601",3,2,"Thu,Fri","Thu_14-15, Fri_10-11","Mon_9-10, Tue_14-15",16,10
+P004,Prof. Vikas,"IT612, BC108",4,2,"Mon,Wed,Thu","Mon_14-15, Fri_14-15","Tue_14-15, Thu_14-15",16,10
+P005,Dr. Anjali,"BC108, BS605",3,2,"Tue,Fri","Tue_12-13, Tue_16-17","Mon_9-10, Wed_9-10",16,10
+P006,Prof. Rajesh,"CSIT755, CSIT803",4,2,"Mon,Tue","Wed_9-10, Fri_14-15","Mon_11-12, Fri_10-11",16,10
+P007,Dr. Meera,"CSIT816,CSIT811,ETSM800",3,2,"Tue,Wed","Mon_9-10, Tue_12-13","Tue_9-10, Thu_12-13",16,10
+P008,Prof. Sandeep,"CSIT654, CSIT755",4,2,Wed,"Mon_9-10, Wed_16-17","Thu_9-10, Fri_9-10",16,10
+P009,Prof. Amit,"MATH802, CSIT743",4,2,"Mon,Fri","Thu_12-13, Wed_10-11","Mon_14-15, Tue_14-15",16,10
+P010,Dr. Kavita,"BS605, PFE701",3,2,"Wed,Thu","Tue_9-10, Fri_12-13","Mon_10-11, Wed_10-11",16,10
+P011,Dr. Suresh,"CSIT802, CSIT654",3,2,"Mon,Wed","Mon_12-13, Tue_15-16","Tue_12-13, Thu_12-13",16,10
+P012,Prof. Nitin,"CSIT751, IT612",4,2,"Wed,Fri","Mon_9-10, Thu_9-10","Wed_9-10, Fri_14-15",16,10
+P013,Dr. Priyanka,"CSIT762,CSE601, ETSM800",3,2,"Mon,Tue,Thu","Tue_15-16, Fri-10-11","Thu_9-10, Fri_9-10",16,10
+P014,Dr. Rajesh,"CSIT745, CSIT762",3,2,"Mon,Thu","Fri_12-13, Mon_14-15","Mon_9-10, Wed_14-15",16,10
+P015,Prof. Shalini,"CSIT803, CSIT811",4,2,"Tue,Thu,Fri","Tue_15-16, Wed_9-10","Tue_16-17, Fri_15-16",16,10
+P016,Prof. Suresh,"CSE601, ETSM600",4,2,"Tue,Fri","Mon_15-16, Tue_16-17","Thu_9-10, Thu_10-11",16,10
+P017,Dr. Pooja,"CSIT654, CSIT802",3,2,"Wed,Thu","Tue_16-17, Fri_14-15","Mon_15-16, Wed_16-17",16,10
+P018,Prof. Vikram,"MATH802, CSIT816",4,2,"Mon,Tue,Fri","Thu_15-16, Fri_14-15","Mon_12-13, Tue_12-13",16,10
+P019,Dr. Manish,"CSIT803, CSIT654",3,2,"Mon,Fri","Wed_12-13, Thu_14-15","Wed_9-10, Fri_9-10",16,10
+P020,Prof. Gurkeerat,"BC108,CSIT762",4,2,"Wed,Fri","Wed_14-15, Tue_12-13","Tue_14-15, Thu_14-15",16,10
+P021,Prof. Neha,"MGT101,MBA306",4,2,"Mon,Tue,Fri","Thu_12-13, Fri_12-13","Tue_10-11, Wed_16-17",16,10
+P022,Dr. Kavita,"FIN101,FIN302",3,2,"Wed,Thu","Mon_14-15, Sat_10-11","Wed_12-13, Thu_15-16",16,10
+P023,Dr. Madhav,"MKT101,BC101",3,2,"Mon,Thu","Mon_16-17, Fri_14-15","Mon_9-10,Wed_16-17",16,10
+P024,Prof. Varun,"STAT101,MBA105",4,2,"Tue,Wed","Wed_16-17, Thu_15-16","Tue_9-10, Fri_16-17",16,10
+P025,Dr. Veena,"MBA202,MBA107",3,2,"Thu,Fri","Tue_15-16, Fri-9-10","Mon_9-10, Wed_15-16",16,10
+P026,Prof. Bhagat,"HRM201,MBA203",4,2,"Mon,Tue","Fri_15-16, Mon_14-15","Tue_12-13, Fri_9-10",16,10
+P027,Prof. Kanishk,"BC101,BC201,ETSM600",4,2,"Wed,Fri","Tue_9-10, Fri_15-16","Mon_12-13, Wed_16-17",16,10
+P028,Dr. Vidhyut,"HRM201,MBA204",3,2,"Tue,Fri","Mon_9-10, Thu_14-15","Fri_10-11, Tue_14-15",16,10
+P029,Prof. Kamal,"MBA203,MGT301",4,2,"Mon,Thu","Mon_15-16, Thu_16-17","Tue_15-16, Fri_12-13",16,10
+P030,Prof. Dinesh,"STAT101,MBA202",4,2,"Wed,Thu","Fri_14-15, Thu_15-16","Mon_9-10, Tue_16-17",16,10
+P031,Prof. Jaskeerat,"MBA105,FIN302",4,2,"Mon,Wed","Tue_16-17, Wed_10-11","Tue_9-10, Wed_12-13",16,10
+P032,Dr. Dheeraj,"BC201,MBA305",3,2,"Tue,Fri","Wed_14-15, Fri_15-16","Mon_9-10, Tue_14-15",16,10
+P033,Dr. Kajol,"MBA204,MKT301",3,2,"Mon,Fri","Thu_10-11, Fri_14-15","Tue_15-16, Fri_12-13",16,10
+P034,Prof. Vineet,"FIN101,MBA306",4,2,"Wed,Thu","Mon_12-13, Thu_9-10","Tue_15-16, Thu_16-17",16,10
+P035,Dr. Kusum,"MBA107,MGT301",3,2,"Tue,Thu","Tue_14-15, Thu_16-17","Mon_10-11,  Tue_12-13",16,10
+P036,Prof. Santosh,"MBA202,FIN302",4,2,"Mon,Thu","Mon_12-13, Wed_15-16","Tue_9-10, Fri_12-13",16,10
+P037,Prof.  Sneha,"MBA105,ENT401",4,2,"Tue,Fri","Tue_14-15, Fri_10-11","Thu_15-16, Fri_16-17",16,10
+P038,Dr. Arun,"MBA305,MKT301",3,2,"Mon,Wed","Mon_14-15, Fri_14-15","Wed_9-10, Thu_10-11",16,10
+P039,Prof. Iyer,"MBA203,ENT401",4,2,"Tue,Thu","Mon_9-10, Fri_12-13","Tue_16-17, Thu_12-13",16,10
+P040,Dr. Tara,"MBA305,IBM401",3,2,"Mon,Tue","Wed_14-15, Fri_16-17","Thu_10-11, Fri_15-16",16,10
+P041,Prof. Manoj,"ETSM800,IBM401,MGT101",4,2,"Tue,Thu","Tue_15-16, Fri_14-15","Mon_9-10, Fri_16-17",16,10

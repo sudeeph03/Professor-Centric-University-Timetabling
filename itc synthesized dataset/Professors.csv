@@ -1,0 +1,189 @@
+Prof_ID,Professor_Name,Course_ID,Daily_Max_Load,Daily_Min_Load,Preferred_Online_Days,Unavailable_Slots,Disliked_Slots,Weekly_Max_Load,Weekly_Min_Load
+P001,Prof. Synthetic_1,"COURSE_179, COURSE_106",3,1,,"Thu_11-12, Fri_12-13",Fri_16-17,10,2
+P002,Prof. Synthetic_2,"COURSE_106, COURSE_153",3,1,"Tue,Wed",Fri_12-13,Tue_14-15,10,2
+P003,Dr. Synthetic_3,"COURSE_153, COURSE_138",3,1,Mon,"Mon_12-13, Tue_9-10","Wed_12-13, Tue_14-15",10,2
+P004,Dr. Synthetic_4,"COURSE_138, COURSE_185",3,1,"Tue,Mon",Mon_14-15,"Wed_14-15, Mon_11-12, Mon_10-11",10,2
+P005,Dr. Synthetic_5,"COURSE_185, COURSE_124",3,1,Tue,Mon_9-10,"Fri_12-13, Tue_15-16, Thu_11-12",10,2
+P006,Prof. Synthetic_6,"COURSE_124, COURSE_20",3,1,"Wed,Fri","Wed_10-11, Wed_15-16","Wed_14-15, Fri_15-16",10,2
+P007,Dr. Synthetic_7,"COURSE_20, COURSE_39",3,1,,Mon_15-16,"Thu_15-16, Thu_10-11, Mon_10-11",10,2
+P008,Dr. Synthetic_8,"COURSE_39, COURSE_166",3,1,"Thu,Tue","Fri_11-12, Fri_9-10",Tue_11-12,10,2
+P009,Dr. Synthetic_9,"COURSE_166, COURSE_117",3,1,,Mon_11-12,"Fri_9-10, Tue_15-16",10,2
+P010,Dr. Synthetic_10,"COURSE_117, COURSE_43",3,1,"Wed,Tue",Fri_12-13,"Fri_14-15, Tue_11-12, Wed_14-15",10,2
+P011,Prof. Synthetic_11,"COURSE_43, COURSE_85",3,1,Fri,Tue_11-12,"Tue_9-10, Thu_16-17, Tue_14-15",10,2
+P012,Dr. Synthetic_12,"COURSE_85, COURSE_32",3,1,"Tue,Fri","Mon_16-17, Fri_16-17","Tue_12-13, Tue_15-16, Tue_16-17",10,2
+P013,Prof. Synthetic_13,"COURSE_32, COURSE_73",3,1,"Thu,Tue",Thu_10-11,"Tue_10-11, Thu_12-13, Fri_10-11",10,2
+P014,Dr. Synthetic_14,"COURSE_73, COURSE_108",3,1,"Mon,Fri",Mon_9-10,"Thu_12-13, Wed_15-16",10,2
+P015,Dr. Synthetic_15,"COURSE_108, COURSE_31",3,1,"Thu,Wed",Mon_10-11,"Tue_10-11, Wed_12-13",10,2
+P016,Prof. Synthetic_16,"COURSE_31, COURSE_162",3,1,"Fri,Thu","Thu_9-10, Tue_14-15","Mon_10-11, Tue_11-12, Thu_11-12",10,2
+P017,Dr. Synthetic_17,"COURSE_162, COURSE_158",3,1,Fri,"Tue_10-11, Fri_14-15","Mon_11-12, Fri_16-17",10,2
+P018,Prof. Synthetic_18,"COURSE_158, COURSE_140",3,1,"Thu,Mon","Wed_15-16, Tue_11-12",Thu_15-16,10,2
+P019,Dr. Synthetic_19,"COURSE_140, COURSE_100",3,1,Fri,"Tue_16-17, Fri_9-10","Mon_9-10, Fri_15-16, Thu_9-10",10,2
+P020,Dr. Synthetic_20,"COURSE_100, COURSE_50",3,1,"Thu,Tue","Mon_12-13, Fri_9-10","Thu_11-12, Tue_10-11",10,2
+P021,Prof. Synthetic_21,"COURSE_50, COURSE_74",3,1,Wed,Wed_9-10,"Tue_14-15, Tue_9-10",10,2
+P022,Prof. Synthetic_22,"COURSE_74, COURSE_68",3,1,"Fri,Wed",Tue_14-15,Mon_10-11,10,2
+P023,Dr. Synthetic_23,"COURSE_68, COURSE_126",3,1,,"Fri_9-10, Wed_15-16",Wed_9-10,10,2
+P024,Dr. Synthetic_24,"COURSE_126, COURSE_89",3,1,"Thu,Fri","Wed_11-12, Wed_10-11","Tue_9-10, Thu_9-10",10,2
+P025,Dr. Synthetic_25,"COURSE_89, COURSE_88",3,1,"Tue,Mon","Mon_9-10, Mon_9-10","Wed_16-17, Tue_15-16, Tue_10-11",10,2
+P026,Dr. Synthetic_26,"COURSE_88, COURSE_172",3,1,"Fri,Wed","Tue_10-11, Fri_11-12","Wed_15-16, Tue_14-15",10,2
+P027,Prof. Synthetic_27,"COURSE_172, COURSE_56",3,1,Tue,"Thu_14-15, Wed_16-17","Mon_10-11, Wed_12-13, Thu_14-15",10,2
+P028,Prof. Synthetic_28,"COURSE_56, COURSE_107",3,1,,"Thu_15-16, Mon_16-17","Thu_15-16, Tue_11-12",10,2
+P029,Prof. Synthetic_29,"COURSE_107, COURSE_97",3,1,Thu,"Thu_15-16, Mon_10-11","Fri_11-12, Thu_9-10, Tue_12-13",10,2
+P030,Prof. Synthetic_30,"COURSE_97, COURSE_21",3,1,Thu,"Fri_16-17, Tue_11-12","Fri_16-17, Tue_9-10, Mon_16-17",10,2
+P031,Prof. Synthetic_31,"COURSE_21, COURSE_54",3,1,"Mon,Wed","Fri_16-17, Wed_11-12","Mon_10-11, Fri_15-16, Fri_10-11",10,2
+P032,Dr. Synthetic_32,"COURSE_54, COURSE_135",3,1,,"Thu_14-15, Wed_14-15","Mon_16-17, Fri_14-15",10,2
+P033,Dr. Synthetic_33,"COURSE_135, COURSE_156",3,1,Wed,"Thu_15-16, Wed_12-13","Mon_14-15, Tue_10-11",10,2
+P034,Prof. Synthetic_34,"COURSE_156, COURSE_57",3,1,,"Tue_12-13, Wed_9-10",Thu_14-15,10,2
+P035,Prof. Synthetic_35,"COURSE_57, COURSE_165",3,1,"Thu,Tue",Tue_14-15,"Thu_16-17, Wed_9-10, Thu_15-16",10,2
+P036,Prof. Synthetic_36,"COURSE_165, COURSE_15",3,1,Thu,"Wed_12-13, Thu_12-13",Wed_14-15,10,2
+P037,Prof. Synthetic_37,"COURSE_15, COURSE_27",3,1,"Wed,Tue",Thu_15-16,"Thu_11-12, Wed_10-11",10,2
+P038,Prof. Synthetic_38,"COURSE_27, COURSE_67",3,1,"Tue,Wed","Fri_12-13, Wed_15-16",Wed_15-16,10,2
+P039,Prof. Synthetic_39,"COURSE_67, COURSE_139",3,1,"Wed,Tue","Tue_15-16, Wed_11-12",Mon_14-15,10,2
+P040,Dr. Synthetic_40,"COURSE_139, COURSE_10",3,1,Mon,Tue_12-13,"Wed_12-13, Wed_14-15, Thu_14-15",10,2
+P041,Dr. Synthetic_41,"COURSE_10, COURSE_145",3,1,Mon,"Thu_15-16, Mon_12-13",Wed_11-12,10,2
+P042,Prof. Synthetic_42,"COURSE_145, COURSE_118",3,1,"Thu,Mon",Tue_14-15,"Tue_14-15, Wed_9-10, Mon_11-12",10,2
+P043,Prof. Synthetic_43,"COURSE_118, COURSE_136",3,1,Wed,Thu_11-12,"Thu_9-10, Tue_9-10, Mon_14-15",10,2
+P044,Dr. Synthetic_44,"COURSE_136, COURSE_19",3,1,,"Mon_9-10, Wed_9-10",Thu_15-16,10,2
+P045,Prof. Synthetic_45,"COURSE_19, COURSE_112",3,1,Fri,"Wed_15-16, Tue_10-11","Wed_11-12, Mon_10-11, Fri_16-17",10,2
+P046,Dr. Synthetic_46,"COURSE_112, COURSE_101",3,1,,Wed_10-11,Tue_11-12,10,2
+P047,Prof. Synthetic_47,"COURSE_101, COURSE_147",3,1,"Thu,Tue","Tue_12-13, Fri_15-16","Wed_10-11, Tue_14-15",10,2
+P048,Prof. Synthetic_48,"COURSE_147, COURSE_29",3,1,"Wed,Thu",Wed_15-16,Thu_14-15,10,2
+P049,Prof. Synthetic_49,"COURSE_29, COURSE_7",3,1,Mon,Wed_9-10,"Wed_12-13, Wed_12-13, Wed_9-10",10,2
+P050,Dr. Synthetic_50,"COURSE_7, COURSE_109",3,1,Mon,"Thu_12-13, Tue_16-17",Thu_10-11,10,2
+P051,Prof. Synthetic_51,"COURSE_109, COURSE_125",3,1,"Tue,Mon","Wed_16-17, Mon_11-12","Tue_11-12, Wed_9-10",10,2
+P052,Dr. Synthetic_52,"COURSE_125, COURSE_127",3,1,Mon,Tue_16-17,Mon_16-17,10,2
+P053,Prof. Synthetic_53,"COURSE_127, COURSE_36",3,1,"Thu,Mon","Mon_12-13, Thu_16-17","Wed_11-12, Wed_10-11",10,2
+P054,Prof. Synthetic_54,"COURSE_36, COURSE_47",3,1,Fri,"Wed_9-10, Tue_14-15","Tue_16-17, Wed_11-12",10,2
+P055,Prof. Synthetic_55,"COURSE_47, COURSE_110",3,1,"Wed,Fri",Mon_14-15,"Mon_16-17, Fri_14-15",10,2
+P056,Dr. Synthetic_56,"COURSE_110, COURSE_96",3,1,Tue,"Tue_9-10, Mon_9-10","Thu_11-12, Thu_11-12, Tue_14-15",10,2
+P057,Prof. Synthetic_57,"COURSE_96, COURSE_98",3,1,"Tue,Mon",Tue_11-12,"Mon_12-13, Mon_15-16, Mon_12-13",10,2
+P058,Prof. Synthetic_58,"COURSE_98, COURSE_33",3,1,"Thu,Mon",Mon_15-16,"Wed_12-13, Thu_14-15",10,2
+P059,Dr. Synthetic_59,"COURSE_33, COURSE_130",3,1,"Thu,Tue","Mon_11-12, Thu_15-16","Thu_9-10, Mon_9-10, Tue_16-17",10,2
+P060,Dr. Synthetic_60,"COURSE_130, COURSE_113",3,1,Tue,"Wed_12-13, Thu_9-10",Fri_10-11,10,2
+P061,Prof. Synthetic_61,"COURSE_113, COURSE_92",3,1,"Wed,Mon",Mon_16-17,"Fri_16-17, Tue_14-15, Wed_14-15",10,2
+P062,Dr. Synthetic_62,"COURSE_92, COURSE_81",3,1,,Tue_16-17,"Mon_16-17, Mon_10-11, Thu_10-11",10,2
+P063,Dr. Synthetic_63,"COURSE_81, COURSE_150",3,1,Fri,Wed_9-10,"Fri_15-16, Fri_14-15",10,2
+P064,Dr. Synthetic_64,"COURSE_150, COURSE_65",3,1,Mon,Mon_14-15,"Tue_14-15, Thu_14-15, Thu_9-10",10,2
+P065,Prof. Synthetic_65,"COURSE_65, COURSE_16",3,1,"Wed,Mon","Fri_15-16, Wed_14-15","Thu_10-11, Wed_14-15, Wed_16-17",10,2
+P066,Dr. Synthetic_66,"COURSE_16, COURSE_86",3,1,Wed,Fri_11-12,Tue_14-15,10,2
+P067,Prof. Synthetic_67,"COURSE_86, COURSE_131",3,1,Thu,Fri_15-16,"Fri_14-15, Tue_11-12",10,2
+P068,Dr. Synthetic_68,"COURSE_131, COURSE_182",3,1,Thu,"Tue_15-16, Thu_14-15",Thu_15-16,10,2
+P069,Dr. Synthetic_69,"COURSE_182, COURSE_175",3,1,Tue,Mon_10-11,"Tue_11-12, Mon_9-10",10,2
+P070,Dr. Synthetic_70,"COURSE_175, COURSE_152",3,1,"Mon,Tue",Mon_12-13,Thu_15-16,10,2
+P071,Dr. Synthetic_71,"COURSE_152, COURSE_14",3,1,Wed,Tue_10-11,"Fri_14-15, Wed_12-13",10,2
+P072,Dr. Synthetic_72,"COURSE_14, COURSE_79",3,1,,Fri_16-17,"Thu_10-11, Fri_12-13",10,2
+P073,Dr. Synthetic_73,"COURSE_79, COURSE_114",3,1,Tue,Wed_11-12,"Fri_12-13, Thu_12-13, Wed_14-15",10,2
+P074,Dr. Synthetic_74,"COURSE_114, COURSE_52",3,1,,Tue_12-13,Tue_12-13,10,2
+P075,Dr. Synthetic_75,"COURSE_52, COURSE_35",3,1,Fri,Wed_15-16,"Mon_11-12, Tue_9-10",10,2
+P076,Prof. Synthetic_76,"COURSE_35, COURSE_119",3,1,"Wed,Tue",Mon_9-10,Fri_9-10,10,2
+P077,Dr. Synthetic_77,"COURSE_119, COURSE_120",3,1,Thu,Fri_10-11,"Mon_12-13, Fri_10-11",10,2
+P078,Prof. Synthetic_78,"COURSE_120, COURSE_123",3,1,,Tue_9-10,"Thu_16-17, Mon_10-11",10,2
+P079,Prof. Synthetic_79,"COURSE_123, COURSE_170",3,1,Fri,"Mon_16-17, Tue_9-10","Fri_10-11, Wed_12-13",10,2
+P080,Prof. Synthetic_80,"COURSE_170, COURSE_80",3,1,Wed,Tue_10-11,"Mon_12-13, Thu_16-17",10,2
+P081,Dr. Synthetic_81,"COURSE_80, COURSE_9",3,1,Thu,Mon_14-15,"Tue_9-10, Thu_14-15",10,2
+P082,Prof. Synthetic_82,"COURSE_9, COURSE_8",3,1,"Fri,Wed",Mon_14-15,"Fri_15-16, Mon_11-12, Fri_11-12",10,2
+P083,Prof. Synthetic_83,"COURSE_8, COURSE_104",3,1,"Fri,Tue","Fri_9-10, Thu_10-11",Fri_10-11,10,2
+P084,Prof. Synthetic_84,"COURSE_104, COURSE_3",3,1,"Mon,Thu",Wed_10-11,"Fri_16-17, Mon_11-12",10,2
+P085,Dr. Synthetic_85,"COURSE_3, COURSE_159",3,1,Thu,Tue_12-13,"Tue_15-16, Fri_9-10",10,2
+P086,Dr. Synthetic_86,"COURSE_159, COURSE_122",3,1,Fri,"Wed_16-17, Wed_16-17",Mon_14-15,10,2
+P087,Dr. Synthetic_87,"COURSE_122, COURSE_171",3,1,"Mon,Tue","Thu_14-15, Mon_14-15","Thu_10-11, Thu_14-15",10,2
+P088,Prof. Synthetic_88,"COURSE_171, COURSE_102",3,1,"Wed,Thu",Tue_12-13,"Mon_9-10, Thu_12-13",10,2
+P089,Dr. Synthetic_89,"COURSE_102, COURSE_24",3,1,Mon,Mon_9-10,"Wed_12-13, Wed_10-11",10,2
+P090,Dr. Synthetic_90,"COURSE_24, COURSE_178",3,1,,Thu_10-11,"Tue_9-10, Fri_16-17, Thu_14-15",10,2
+P091,Dr. Synthetic_91,"COURSE_178, COURSE_183",3,1,"Fri,Mon",Fri_10-11,Mon_16-17,10,2
+P092,Dr. Synthetic_92,"COURSE_183, COURSE_6",3,1,"Wed,Thu","Fri_15-16, Fri_11-12","Tue_10-11, Tue_9-10",10,2
+P093,Prof. Synthetic_93,"COURSE_6, COURSE_49",3,1,,Thu_9-10,"Mon_10-11, Wed_16-17",10,2
+P094,Prof. Synthetic_94,"COURSE_49, COURSE_55",3,1,"Thu,Tue","Mon_9-10, Thu_16-17","Thu_14-15, Mon_14-15, Thu_15-16",10,2
+P095,Dr. Synthetic_95,"COURSE_55, COURSE_163",3,1,,Thu_9-10,"Tue_10-11, Wed_10-11",10,2
+P096,Prof. Synthetic_96,"COURSE_163, COURSE_77",3,1,,"Mon_14-15, Wed_10-11","Wed_12-13, Mon_15-16",10,2
+P097,Prof. Synthetic_97,"COURSE_77, COURSE_25",3,1,Mon,Wed_12-13,"Tue_12-13, Fri_12-13, Thu_12-13",10,2
+P098,Dr. Synthetic_98,"COURSE_25, COURSE_84",3,1,Fri,"Tue_15-16, Wed_16-17",Tue_16-17,10,2
+P099,Dr. Synthetic_99,"COURSE_84, COURSE_87",3,1,Thu,"Wed_12-13, Fri_9-10","Mon_10-11, Fri_16-17, Wed_15-16",10,2
+P100,Dr. Synthetic_100,"COURSE_87, COURSE_174",3,1,Thu,Fri_15-16,Wed_11-12,10,2
+P101,Prof. Synthetic_101,"COURSE_174, COURSE_2",3,1,Mon,"Mon_10-11, Mon_10-11","Thu_15-16, Thu_9-10, Tue_9-10",10,2
+P102,Dr. Synthetic_102,"COURSE_2, COURSE_12",3,1,Tue,"Thu_10-11, Thu_10-11",Mon_9-10,10,2
+P103,Dr. Synthetic_103,"COURSE_12, COURSE_121",3,1,,Mon_14-15,"Mon_11-12, Tue_12-13, Fri_10-11",10,2
+P104,Prof. Synthetic_104,"COURSE_121, COURSE_42",3,1,,Wed_16-17,"Tue_12-13, Fri_12-13, Mon_16-17",10,2
+P105,Dr. Synthetic_105,"COURSE_42, COURSE_76",3,1,Mon,"Wed_16-17, Mon_16-17",Thu_15-16,10,2
+P106,Dr. Synthetic_106,"COURSE_76, COURSE_154",3,1,"Tue,Wed",Thu_15-16,"Wed_14-15, Wed_15-16, Thu_16-17",10,2
+P107,Prof. Synthetic_107,"COURSE_154, COURSE_58",3,1,"Tue,Mon","Tue_15-16, Thu_9-10",Tue_14-15,10,2
+P108,Prof. Synthetic_108,"COURSE_58, COURSE_90",3,1,"Tue,Thu","Fri_12-13, Thu_15-16","Thu_12-13, Thu_11-12, Tue_12-13",10,2
+P109,Prof. Synthetic_109,"COURSE_90, COURSE_18",3,1,"Mon,Tue","Tue_9-10, Fri_10-11","Wed_10-11, Wed_11-12, Fri_15-16",10,2
+P110,Prof. Synthetic_110,"COURSE_18, COURSE_151",3,1,Thu,"Fri_10-11, Mon_16-17",Wed_11-12,10,2
+P111,Prof. Synthetic_111,"COURSE_151, COURSE_91",3,1,Mon,Mon_16-17,"Fri_14-15, Tue_14-15",10,2
+P112,Dr. Synthetic_112,"COURSE_91, COURSE_155",3,1,Thu,"Mon_11-12, Tue_12-13",Thu_12-13,10,2
+P113,Prof. Synthetic_113,"COURSE_155, COURSE_180",3,1,Mon,"Wed_15-16, Mon_16-17","Thu_9-10, Mon_10-11, Wed_11-12",10,2
+P114,Dr. Synthetic_114,"COURSE_180, COURSE_188",3,1,,Wed_14-15,"Wed_11-12, Wed_9-10, Thu_15-16",10,2
+P115,Prof. Synthetic_115,"COURSE_188, COURSE_71",3,1,"Thu,Fri",Wed_11-12,"Mon_15-16, Mon_14-15, Mon_12-13",10,2
+P116,Dr. Synthetic_116,"COURSE_71, COURSE_34",3,1,Fri,Mon_11-12,"Wed_12-13, Mon_16-17",10,2
+P117,Dr. Synthetic_117,"COURSE_34, COURSE_177",3,1,Fri,"Tue_9-10, Wed_12-13",Thu_14-15,10,2
+P118,Dr. Synthetic_118,"COURSE_177, COURSE_128",3,1,,"Tue_10-11, Thu_16-17","Thu_9-10, Fri_12-13",10,2
+P119,Dr. Synthetic_119,"COURSE_128, COURSE_149",3,1,Wed,"Fri_11-12, Tue_12-13",Mon_10-11,10,2
+P120,Dr. Synthetic_120,"COURSE_149, COURSE_160",3,1,"Fri,Thu","Tue_16-17, Thu_11-12","Thu_10-11, Mon_15-16, Tue_9-10",10,2
+P121,Dr. Synthetic_121,"COURSE_160, COURSE_164",3,1,,"Mon_15-16, Thu_15-16","Mon_16-17, Thu_12-13",10,2
+P122,Dr. Synthetic_122,"COURSE_164, COURSE_28",3,1,"Fri,Mon","Mon_16-17, Fri_15-16","Tue_11-12, Thu_15-16, Wed_15-16",10,2
+P123,Dr. Synthetic_123,"COURSE_28, COURSE_11",3,1,"Thu,Mon","Wed_16-17, Tue_14-15",Fri_11-12,10,2
+P124,Dr. Synthetic_124,"COURSE_11, COURSE_66",3,1,,Fri_11-12,Mon_16-17,10,2
+P125,Dr. Synthetic_125,"COURSE_66, COURSE_26",3,1,,Mon_14-15,"Wed_15-16, Fri_10-11",10,2
+P126,Dr. Synthetic_126,"COURSE_26, COURSE_184",3,1,"Wed,Fri",Tue_11-12,Mon_9-10,10,2
+P127,Dr. Synthetic_127,"COURSE_184, COURSE_168",3,1,"Thu,Mon","Thu_14-15, Tue_10-11",Thu_15-16,10,2
+P128,Dr. Synthetic_128,"COURSE_168, COURSE_83",3,1,Mon,Fri_16-17,"Mon_15-16, Thu_9-10",10,2
+P129,Dr. Synthetic_129,"COURSE_83, COURSE_4",3,1,,Fri_11-12,"Mon_9-10, Mon_15-16",10,2
+P130,Dr. Synthetic_130,"COURSE_4, COURSE_143",3,1,"Mon,Tue",Mon_10-11,Thu_9-10,10,2
+P131,Prof. Synthetic_131,"COURSE_143, COURSE_44",3,1,Tue,Tue_14-15,"Thu_10-11, Fri_12-13, Mon_15-16",10,2
+P132,Dr. Synthetic_132,"COURSE_44, COURSE_111",3,1,"Wed,Mon","Fri_10-11, Mon_16-17","Wed_10-11, Thu_15-16",10,2
+P133,Prof. Synthetic_133,"COURSE_111, COURSE_60",3,1,Mon,"Fri_9-10, Mon_12-13",Wed_12-13,10,2
+P134,Prof. Synthetic_134,"COURSE_60, COURSE_129",3,1,"Thu,Fri","Thu_16-17, Fri_10-11","Mon_14-15, Thu_10-11, Mon_11-12",10,2
+P135,Prof. Synthetic_135,"COURSE_129, COURSE_144",3,1,,"Thu_16-17, Mon_15-16",Thu_11-12,10,2
+P136,Dr. Synthetic_136,"COURSE_144, COURSE_63",3,1,"Tue,Mon",Mon_16-17,Mon_14-15,10,2
+P137,Dr. Synthetic_137,"COURSE_63, COURSE_72",3,1,"Thu,Wed",Fri_9-10,"Mon_15-16, Thu_16-17",10,2
+P138,Prof. Synthetic_138,"COURSE_72, COURSE_53",3,1,Thu,Tue_15-16,"Thu_14-15, Fri_14-15, Thu_11-12",10,2
+P139,Prof. Synthetic_139,"COURSE_53, COURSE_148",3,1,"Fri,Thu","Mon_16-17, Tue_12-13","Thu_14-15, Mon_12-13",10,2
+P140,Dr. Synthetic_140,"COURSE_148, COURSE_186",3,1,Tue,Wed_12-13,Thu_14-15,10,2
+P141,Prof. Synthetic_141,"COURSE_186, COURSE_48",3,1,Wed,"Fri_14-15, Fri_10-11","Wed_14-15, Fri_15-16, Fri_11-12",10,2
+P142,Dr. Synthetic_142,"COURSE_48, COURSE_116",3,1,"Mon,Wed","Mon_15-16, Wed_16-17",Fri_12-13,10,2
+P143,Dr. Synthetic_143,"COURSE_116, COURSE_133",3,1,"Fri,Wed",Fri_16-17,"Fri_11-12, Tue_12-13, Mon_16-17",10,2
+P144,Dr. Synthetic_144,"COURSE_133, COURSE_99",3,1,Fri,Mon_14-15,"Fri_15-16, Thu_16-17",10,2
+P145,Prof. Synthetic_145,"COURSE_99, COURSE_45",3,1,,Wed_9-10,"Wed_14-15, Thu_14-15",10,2
+P146,Dr. Synthetic_146,"COURSE_45, COURSE_115",3,1,,"Tue_12-13, Wed_10-11","Thu_12-13, Fri_9-10",10,2
+P147,Prof. Synthetic_147,"COURSE_115, COURSE_105",3,1,"Tue,Fri",Wed_16-17,"Fri_9-10, Tue_12-13",10,2
+P148,Dr. Synthetic_148,"COURSE_105, COURSE_173",3,1,Thu,"Wed_16-17, Fri_14-15",Tue_10-11,10,2
+P149,Dr. Synthetic_149,"COURSE_173, COURSE_132",3,1,,Mon_16-17,"Thu_10-11, Thu_15-16, Tue_15-16",10,2
+P150,Dr. Synthetic_150,"COURSE_132, COURSE_167",3,1,"Mon,Wed",Tue_15-16,"Tue_14-15, Wed_9-10, Thu_9-10",10,2
+P151,Dr. Synthetic_151,"COURSE_167, COURSE_187",3,1,Thu,"Wed_9-10, Fri_12-13","Mon_16-17, Fri_11-12, Fri_11-12",10,2
+P152,Prof. Synthetic_152,"COURSE_187, COURSE_82",3,1,Wed,Fri_11-12,"Thu_15-16, Fri_15-16, Fri_16-17",10,2
+P153,Prof. Synthetic_153,"COURSE_82, COURSE_134",3,1,,Fri_9-10,"Fri_12-13, Mon_16-17",10,2
+P154,Prof. Synthetic_154,"COURSE_134, COURSE_169",3,1,"Tue,Fri",Wed_16-17,Wed_16-17,10,2
+P155,Prof. Synthetic_155,"COURSE_169, COURSE_75",3,1,,"Wed_11-12, Fri_15-16","Fri_15-16, Thu_14-15",10,2
+P156,Prof. Synthetic_156,"COURSE_75, COURSE_37",3,1,"Fri,Tue","Mon_9-10, Mon_9-10","Mon_10-11, Mon_16-17, Thu_14-15",10,2
+P157,Prof. Synthetic_157,"COURSE_37, COURSE_40",3,1,,"Thu_16-17, Mon_14-15",Wed_14-15,10,2
+P158,Prof. Synthetic_158,"COURSE_40, COURSE_181",3,1,"Thu,Tue",Fri_11-12,"Thu_9-10, Mon_15-16",10,2
+P159,Dr. Synthetic_159,"COURSE_181, COURSE_69",3,1,Wed,"Tue_14-15, Thu_14-15",Thu_15-16,10,2
+P160,Dr. Synthetic_160,"COURSE_69, COURSE_142",3,1,Thu,"Tue_16-17, Mon_9-10",Mon_11-12,10,2
+P161,Dr. Synthetic_161,"COURSE_142, COURSE_161",3,1,,Mon_9-10,"Tue_15-16, Thu_12-13, Tue_16-17",10,2
+P162,Prof. Synthetic_162,"COURSE_161, COURSE_17",3,1,"Thu,Fri","Mon_11-12, Tue_16-17","Fri_10-11, Wed_9-10, Fri_9-10",10,2
+P163,Dr. Synthetic_163,"COURSE_17, COURSE_95",3,1,"Mon,Tue",Wed_16-17,"Tue_11-12, Fri_16-17",10,2
+P164,Prof. Synthetic_164,"COURSE_95, COURSE_46",3,1,Mon,Tue_11-12,"Tue_14-15, Tue_16-17",10,2
+P165,Dr. Synthetic_165,"COURSE_46, COURSE_51",3,1,"Fri,Mon",Fri_11-12,"Wed_11-12, Tue_16-17, Mon_14-15",10,2
+P166,Prof. Synthetic_166,"COURSE_51, COURSE_61",3,1,,"Thu_12-13, Mon_11-12","Tue_12-13, Wed_15-16, Wed_16-17",10,2
+P167,Prof. Synthetic_167,"COURSE_61, COURSE_70",3,1,Mon,"Tue_11-12, Wed_12-13","Wed_16-17, Tue_14-15, Wed_11-12",10,2
+P168,Prof. Synthetic_168,"COURSE_70, COURSE_22",3,1,"Wed,Mon","Wed_15-16, Mon_14-15","Tue_11-12, Thu_16-17",10,2
+P169,Dr. Synthetic_169,"COURSE_22, COURSE_78",3,1,Tue,"Wed_15-16, Tue_9-10","Fri_11-12, Thu_12-13, Thu_9-10",10,2
+P170,Dr. Synthetic_170,"COURSE_78, COURSE_23",3,1,Wed,Wed_10-11,Tue_10-11,10,2
+P171,Prof. Synthetic_171,"COURSE_23, COURSE_137",3,1,"Wed,Thu","Wed_14-15, Mon_11-12",Wed_15-16,10,2
+P172,Prof. Synthetic_172,"COURSE_137, COURSE_5",3,1,,Mon_12-13,"Tue_14-15, Mon_15-16, Fri_14-15",10,2
+P173,Dr. Synthetic_173,"COURSE_5, COURSE_94",3,1,Mon,"Wed_12-13, Fri_12-13",Mon_12-13,10,2
+P174,Dr. Synthetic_174,"COURSE_94, COURSE_41",3,1,"Mon,Fri",Thu_16-17,"Thu_9-10, Fri_14-15, Fri_10-11",10,2
+P175,Dr. Synthetic_175,"COURSE_41, COURSE_103",3,1,Wed,"Tue_10-11, Thu_15-16",Mon_14-15,10,2
+P176,Dr. Synthetic_176,"COURSE_103, COURSE_13",3,1,"Wed,Thu","Thu_9-10, Mon_9-10",Fri_15-16,10,2
+P177,Prof. Synthetic_177,"COURSE_13, COURSE_30",3,1,,Tue_15-16,"Fri_10-11, Mon_12-13",10,2
+P178,Dr. Synthetic_178,"COURSE_30, COURSE_157",3,1,"Mon,Wed",Thu_12-13,"Tue_12-13, Wed_16-17, Mon_11-12",10,2
+P179,Prof. Synthetic_179,"COURSE_157, COURSE_93",3,1,Wed,Mon_12-13,Wed_15-16,10,2
+P180,Prof. Synthetic_180,"COURSE_93, COURSE_1",3,1,Fri,"Thu_12-13, Thu_12-13","Fri_11-12, Tue_16-17",10,2
+P181,Dr. Synthetic_181,"COURSE_1, COURSE_141",3,1,"Mon,Wed",Wed_11-12,"Wed_12-13, Fri_10-11",10,2
+P182,Prof. Synthetic_182,"COURSE_141, COURSE_146",3,1,,Wed_12-13,"Wed_10-11, Tue_12-13",10,2
+P183,Dr. Synthetic_183,"COURSE_146, COURSE_64",3,1,"Mon,Thu","Wed_10-11, Thu_16-17",Thu_15-16,10,2
+P184,Dr. Synthetic_184,"COURSE_64, COURSE_38",3,1,Fri,Tue_16-17,Thu_16-17,10,2
+P185,Dr. Synthetic_185,"COURSE_38, COURSE_59",3,1,,"Tue_14-15, Tue_14-15",Thu_15-16,10,2
+P186,Prof. Synthetic_186,"COURSE_59, COURSE_176",3,1,Mon,"Thu_9-10, Fri_15-16","Fri_15-16, Fri_14-15",10,2
+P187,Prof. Synthetic_187,"COURSE_176, COURSE_62",3,1,"Tue,Wed","Wed_12-13, Wed_15-16","Mon_11-12, Wed_11-12, Tue_14-15",10,2
+P188,Dr. Synthetic_188,"COURSE_62, COURSE_179",3,1,Wed,Thu_14-15,"Thu_16-17, Thu_9-10",10,2
