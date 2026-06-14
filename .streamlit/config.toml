@@ -1,0 +1,10 @@
+[logger]
+level = "error"
+
+
+[theme]
+base="light"
+primaryColor="#34495E"        # Slate Blue-Grey (Professional and muted)
+backgroundColor="#F7F9FB"     # Soft White (Removes the harsh blue-light glare)
+secondaryBackgroundColor="#EDF1F5" # Light Azure-Grey for sidebars
+textColor="#2C3E50"           # Dark Slate (Easier on eyes than pure black)
