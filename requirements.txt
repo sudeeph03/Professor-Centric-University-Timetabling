@@ -1,1 +1,0 @@
-This repository is a submission for Master of Computer Applications Major Project. The project topic is: Professor Centric University Timetabling using Genetic Algorithm for a Dual-Delivery Environment. The repository consists of modules of the genetic algorithm and source file for a Streamlit application to showcase the ability of the GA
