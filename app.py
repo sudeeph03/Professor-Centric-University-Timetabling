@@ -82,7 +82,7 @@ def display_timetable(schedule_data, days, slots, view_name, selected_value):
                     if start_index+i < len(slots):
                         current_slot = slots[start_index+i]
 
-                    if current_slot.lower == "lunch" or current_slot.lower() == "break":
+                    if current_slot.lower() == "lunch" or current_slot.lower() == "break":
                         continue
 
                     cell_content = ""
@@ -98,7 +98,7 @@ def display_timetable(schedule_data, days, slots, view_name, selected_value):
                         if current_cell == "-" or current_cell == "BREAK":
                             table.at[current_slot, day] = cell_content
                         else:
-                            table.at[current_cell, day] = current_cell + \
+                            table.at[current_slot, day] = current_cell + \
                                 f"\n----\n {cell_content}"
 
     st.dataframe(table, use_container_width=True)
