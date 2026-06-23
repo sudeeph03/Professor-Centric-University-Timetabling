@@ -48,6 +48,8 @@ The fitness function evaluates timetable quality by applying penalties for const
 <hr></hr>
 
 ### File Upload
+![](docs/File_Uploading.gif)
+
 ### Results of the Scheduling Process
 
 <hr></hr>
