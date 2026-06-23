@@ -51,6 +51,7 @@ The fitness function evaluates timetable quality by applying penalties for const
 ![](docs/File_Uploading.gif)
 
 ### Results of the Scheduling Process
+![](docs/Results from the algorithm.gif)
 
 <hr></hr>
 
